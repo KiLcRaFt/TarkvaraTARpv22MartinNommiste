@@ -8,14 +8,14 @@
 Проект по реализации - Realiseerimisprojekt / teostusprojekt
 Диаграмма Ганта - Gantti diagramm
 
-?критический путь проекта - projekti kriitilist tee
-?виды рисков в проекте - projekti riskidest liigid
-?аутсортсинг - allhanked
-?краудсортсинг - ühisrahastus
-?ИТ аудит - IT audit
-?ERP системы - ERP süsteemi
-?ROI для оценки проектов - ROI projektide hindamiseks
-?Tacit - Tacit
-?Knowledge Managment System - Teadmiste haldamise süsteem
-?cистемы управления базами данных – какие знаете? - andmebaaside haldamise süsteemid
-?Project Managment Tool - Projektide haldamise tööriist
+?критический путь проекта - projekti kriitiline tee
+?виды рисков в проекте - projekti riskiliigid
+?аутсортсинг - allhanke
+?краудсортсинг - rahvahanke
+?ИТ аудит - IT audiit
+?ERP системы - ERP süsteemid
+?ROI для оценки проектов - projektide hindamiseks ROI
+?Tacit - süsteemid Tacit
+?Knowledge Managment System - KMS
+?cистемы управления базами данных – какие знаете? - andmebaaside haldus süsteemid - MSSQL, XAMPP, MSAccess
+?Project Managment Tool - Projektide haldamise tarkvara - MSProject, ProjectLibre
