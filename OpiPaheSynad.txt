@@ -1,4 +1,4 @@
-﻿ПО - Tarkvara TA
+ПО - Tarkvara TA
 Процесс разработки ПО - Tarkvara arendusprotsess
 Документация на ПО - tarkvara documentatioon
 Проект - Projekt
@@ -26,3 +26,8 @@
 линия - joon
 начальный узел - algussõlm
 овал - ovaal
+
+kavad - план
+kavamine - планирование
+Andmetöötlus - обработка данных
+teostus - реализация
